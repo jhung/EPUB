@@ -35,8 +35,8 @@
     <item id="ch001_xhtml" href="html/01-velocity.html" media-type="application/xhtml+xml" properties="mathml" media-overlay="ch001_overlay" />
     <item id="ch002_xhtml" href="html/02-types_of_forces.html" media-type="application/xhtml+xml" properties="mathml" />
     <item id="ch003_xhtml" href="html/03-forces-simulation.html" media-type="application/xhtml+xml" properties="mathml" />
-    <item id="ch003_2_xhtml" href="html/03-forces-simulation-2.html" media-type="application/xhtml+xml" properties="scripted" />
-    <item id="sim1_js" href="js/sim1.js" media-type="text/javascript" />
+    <item id="ch003_2_xhtml" href="html/03-forces-simulation-2.html" media-type="application/xhtml+xml" />
+    <item id="script_xhtml" href="html/script.html" media-type="application/xhtml+xml" properties="scripted" />
     <item id="file0_mp4" href="videos/Free_Body_Diagrams.mp4" media-type="video/mp4" />
     <item id="file1_webm" href="videos/Free_Body_Diagrams.webm" media-type="video/webm" />
     <item id="file2_png" href="images/normal-force.png" media-type="image/png" />
@@ -47,6 +47,18 @@
     <item id="cap1_vtt" href="videos/Relative_Velocity_en.vtt" media-type="text/vtt"/>
     <item id="ch001_overlay" href="audio/01-velocity.smil" media-type="application/smil+xml"/>
     <item id="ch001_overlay_mp3" href="audio/01-velocity.mp3" media-type="audio/mpeg" />
+    <item id="script-02" href="js/assert.js" media-type="text/javascript" />
+    <item id="script-03" href="js/seedrandom-2.2.js" media-type="text/javascript" />
+    <item id="script-04" href="js/jquery-2.1.0.js" media-type="text/javascript" />
+    <item id="script-05" href="js/lodash-2.4.1.js" media-type="text/javascript" />
+    <item id="script-06" href="js/has.js" media-type="text/javascript" />
+    <item id="script-07" href="js/FileSaver.js" media-type="text/javascript" />
+    <item id="script-08" href="js/pixi-2.2.3-dev.js" media-type="text/javascript" />
+    <item id="script-09" href="js/initialize-globals.js" media-type="text/javascript" />
+    <item id="script-10" href="js/Tween-r12.js" media-type="text/javascript" />
+    <item id="script-11" href="js/sim1.js" media-type="text/javascript" />
+    <item id="script-12" href="js/sim2.js" media-type="text/javascript" />
+    <item id="script-13" href="js/sim0.js" media-type="text/javascript" />
   </manifest>
 
   <spine toc="ncx" page-progression-direction="default">
